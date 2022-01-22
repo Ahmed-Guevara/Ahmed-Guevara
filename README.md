@@ -23,8 +23,3 @@
 <span>&#8226;</span>
 <span>&#8226;</span>
 <span>&#8226;</span>
-
-<!---
-Ahmed-Guevara/Ahmed-Guevara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
